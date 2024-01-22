@@ -4,5 +4,5 @@
 # 📊 Stats:
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=imkoda&hide_border=true&show_icons=true" alt="imkoda's github stats"></a>
+  <a href="https://github.com/imkoda"><img src="https://github-readme-stats.vercel.app/api?username=imkoda&hide_border=true&show_icons=true" alt="imkoda's github stats"></a>
 </p>
